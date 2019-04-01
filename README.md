@@ -1,2 +1,2 @@
 # DataMining
-homework of datamining
+This is homework of datamining
